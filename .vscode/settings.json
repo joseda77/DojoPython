@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}/dojoenv/bin/python"
+}
